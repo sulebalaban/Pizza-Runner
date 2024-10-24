@@ -18,7 +18,7 @@ Pricing and Ratings
 Bonus DML Challenges (DML = Data Manipulation Language)
 Each of the following case study questions can be answered using a single SQL statement.
 
-##A. Pizza Metrics
+## A. Pizza Metrics
 How many pizzas were ordered?
 How many unique customer orders were made?
 How many successful orders were delivered by each runner?
